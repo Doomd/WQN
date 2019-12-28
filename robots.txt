@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://wequotenevada.com/sitemap.xml
-Host: https://wequotenevada.com
+Sitemap: https://doomd.github.io/sitemap.xml
+Host: https://doomd.github.io
